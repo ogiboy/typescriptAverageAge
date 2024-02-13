@@ -1,0 +1,2 @@
+# typescriptAverageAge
+Created with CodeSandbox
